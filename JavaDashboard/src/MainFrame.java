@@ -63,7 +63,7 @@ public class MainFrame extends javax.swing.JFrame {
             }
         });
 
-        jPanel1.setBackground(new java.awt.Color(250, 209, 46));
+        jPanel1.setBackground(new java.awt.Color(223, 46, 250));
 
         jLabel1.setFont(new java.awt.Font("Segoe Print", 1, 18)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
